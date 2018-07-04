@@ -1,0 +1,6 @@
+framework module INCIMOpenAPI {
+  umbrella header "INCIMOpenAPI.h"
+
+  export *
+  module * { export * }
+}
